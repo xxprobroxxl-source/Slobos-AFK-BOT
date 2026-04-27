@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "proplayerprobrosmp.aternos.me",
+    "port":  62568,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -27,7 +27,7 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
